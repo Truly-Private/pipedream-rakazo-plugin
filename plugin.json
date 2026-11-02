@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pipedream-for-rakazo",
+  "version": "1.0.0",
+  "description": "Third-party Rakazo plugin configuration for Pipedream's hosted MCP service, including Shopify and other apps you enable in Pipedream.",
+  "repository": "https://github.com/Truly-Private/pipedream-rakazo-plugin",
+  "keywords": [
+    "pipedream",
+    "rakazo",
+    "mcp",
+    "shopify"
+  ]
+}
